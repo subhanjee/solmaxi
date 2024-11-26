@@ -26,7 +26,7 @@ const Tokenomics = () => {
         </div>
         {/* Contract Safety */}
         <div className="bg-white shadow-2xl hover:shadow-xl rounded-lg p-6 text-center">
-          <h2 className="text-xl md:text-3xlfont-extrabold">RENOUNCED</h2>
+          <h2 className="text-xl md:text-3xl font-extrabold">RENOUNCED</h2>
           <p className="text-black mt-2 font-medium">CONTRACT SAFETY</p>
         </div>
         {/* Buy Tax */}
