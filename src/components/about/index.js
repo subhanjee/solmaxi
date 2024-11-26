@@ -1,5 +1,5 @@
 import React from "react";
-import adut from "../images/adut.png";
+import adut from "../images/Group 1.png";
 import adut1 from "../images/1 (1).png";
 import adut2 from "../images/2 (1).png";
 import adut3 from "../images/3 (1).png";
@@ -24,7 +24,7 @@ function About() {
           </div>
         </div>
         <div className="flex flex-col items-center justify-center">
-          <img src={adut} alt="abc" className="-mt-0  md:-mt-48"/>
+          <img src={adut} alt="abc" className="-mt-0  md:-mt-48 w-[35rem]"/>
         </div>
       </div>
       <div>
@@ -33,8 +33,8 @@ function About() {
             <img src={adut1} alt="abc"/>
             <img src={adut2} alt="abc"/>
             <img src={adut3} alt="abc"/>
-            <img src={adut6} alt="abc"/>
             <img src={adut5} alt="abc"/>
+            <img src={adut6} alt="abc"/>
             <img src={adut4} alt="abc"/>
             </div>
       </div>

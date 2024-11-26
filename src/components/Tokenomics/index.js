@@ -15,7 +15,7 @@ const Tokenomics = () => {
       {/* Info Cards */}
       <div className="grid grid-cols-2 md:grid-cols-3 gap-6 mb-10">
         {/* Supply */}
-        <div className="bg-white shadow-2xl hover:shadow-xl rounded-lg p-6 text-center">
+        <div className="bg-white shadow-2xl hover:shadow-xl rounded-lg p-6 text-center ">
           <h2 className="text-xl md:text-3xl font-extrabold">420,690,000,000</h2>
           <p className="text-black mt-2 font-medium">SUPPLY</p>
         </div>

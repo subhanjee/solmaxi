@@ -29,10 +29,10 @@ function HeroSection() {
       <h1 className="text-5xl mt-5">Find Us On</h1>
       <div className="flex gap-3 mt-2">
         <div className="bg-black rounded-md px-4 py-3 flex justify-center items-center  ">
-        <a href="https://telegram.org/" target="_blank" rel="noreferrer">  <img src={twi} alt="abc"/></a>  
+        <a href="https://t.me/+uAgJV7S_RRBmNDdk" target="_blank" rel="noreferrer">  <img src={twi} alt="abc"/></a>  
         </div>
         <div className="bg-black rounded-md px-4 py-3 flex justify-center items-center">
-        <a href="https://x.com" target="_blank" rel="noreferrer">      <img src={x} alt="abc"/></a>
+        <a href="https://x.com/WeAreSolmaxi" target="_blank" rel="noreferrer">      <img src={x} alt="abc"/></a>
         </div>
         <div className="bg-black rounded-md px-4 py-3 flex justify-center items-center">
         <a href="https://www.dextools.io" target="_blank" rel="noreferrer">      <img src={layer} alt="abc"/> </a>
